@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpomdp_domain.a  CMakeFiles/pomdp_domain.dir/lib/my_utils.cpp.o CMakeFiles/pomdp_domain.dir/lib/belief_state.cpp.o CMakeFiles/pomdp_domain.dir/lib/pomdps/pomdp_domain.cpp.o
+/usr/bin/ranlib libpomdp_domain.a

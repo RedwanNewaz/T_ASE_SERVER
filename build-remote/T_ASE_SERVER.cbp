@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="T_ASE_SERVER" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\cmake\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="T_ASE_SERVER_Benchmark">
+         <Option output="/tmp/tmp.9eMgsY7UXc/T_ASE_SERVER_Benchmark" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 T_ASE_SERVER_Benchmark" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="T_ASE_SERVER_Benchmark/fast">
+         <Option output="/tmp/tmp.9eMgsY7UXc/T_ASE_SERVER_Benchmark" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 T_ASE_SERVER_Benchmark/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="pomdp_domain">
+         <Option output="/tmp/tmp.9eMgsY7UXc/build-remote/libpomdp_domain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 pomdp_domain" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="pomdp_domain/fast">
+         <Option output="/tmp/tmp.9eMgsY7UXc/build-remote/libpomdp_domain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 pomdp_domain/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="partial_solver">
+         <Option output="/tmp/tmp.9eMgsY7UXc/build-remote/libpartial_solver.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 partial_solver" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="partial_solver/fast">
+         <Option output="/tmp/tmp.9eMgsY7UXc/build-remote/libpartial_solver.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/tmp/tmp.9eMgsY7UXc/build-remote" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/home/ar103/.local/usr/local/include" />
+            <Add directory="/tmp/tmp.9eMgsY7UXc/include" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 partial_solver/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/tmp/tmp.9eMgsY7UXc/build-remote/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/include/kitchen/kitchen_belief.h">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/include/kitchen/kitchen_main.h">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/include/kitchen/kitchen_tau.h">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/include/pomdps/corridor_domain.h">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/belief_state.cpp">
+         <Option target="pomdp_domain"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/my_utils.cpp">
+         <Option target="pomdp_domain"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/partial_policy.cpp">
+         <Option target="partial_solver"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/plan.cpp">
+         <Option target="partial_solver"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/pomdps/corridor_domain.cpp">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/pomdps/pomdp_domain.cpp">
+         <Option target="pomdp_domain"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/lib/solvers/partial_solver.cpp">
+         <Option target="partial_solver"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/main.cpp">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/src/kitchen/kitchen_belief.cpp">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/src/kitchen/kitchen_main.cpp">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/src/kitchen/kitchen_tau.cpp">
+         <Option target="T_ASE_SERVER_Benchmark"/>
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/tmp/tmp.9eMgsY7UXc/cmake/FindGoogleBenchmark.cmake">
+          <Option virtualFolder="CMake Files\cmake\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

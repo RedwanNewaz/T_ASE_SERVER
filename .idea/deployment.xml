@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Remote Host (5ff384c3-74e6-40a3-baaf-d300d4ec904b)" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="Megamedes">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/redwan/T_ASE_SERVER_MEGA" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (5ff384c3-74e6-40a3-baaf-d300d4ec904b)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.9eMgsY7UXc" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/build-remote" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

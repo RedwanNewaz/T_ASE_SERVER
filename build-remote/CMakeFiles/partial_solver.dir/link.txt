@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpartial_solver.a  CMakeFiles/partial_solver.dir/lib/plan.cpp.o CMakeFiles/partial_solver.dir/lib/partial_policy.cpp.o CMakeFiles/partial_solver.dir/lib/solvers/partial_solver.cpp.o
+/usr/bin/ranlib libpartial_solver.a
